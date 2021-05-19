@@ -44,4 +44,5 @@ public class AssociadoResource {
                 .buildAndExpand(obj.getidAssociado()).toUri();
         return ResponseEntity.created(uri).body(obj);
     }
+
 }

@@ -40,3 +40,4 @@ public class PautaResource {
         return new ResponseEntity<>(response, HttpStatus.CREATED);
     }
 }
+

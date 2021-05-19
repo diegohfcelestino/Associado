@@ -42,3 +42,4 @@ public class AssociadoDTO  implements Serializable {
         this.cpf = cpf;
     }
 }
+
