@@ -67,12 +67,6 @@ O que será analisado
 ● Mensagens e organização dos commits
 
 
-Observações importantes
-
-
-● Não inicie o teste sem sanar todas as dúvidas
-● Iremos executar a aplicação para testá-la, cuide com qualquer dependência externa e deixe claro caso haja instruções especiais para execução do mesmo
-● Teste bem sua solução, evite bugs
 
 
 
