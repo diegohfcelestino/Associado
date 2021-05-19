@@ -84,7 +84,7 @@ Observações importantes
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
-$ git clone https://github.com/diegohfcelestino/associados
+$ git clone https://github.com/diegohfcelestino/associado
 
 # Abra o Intellij
 $ E execute o projeto
