@@ -47,24 +47,7 @@ As tarefas bônus não são obrigatórias, mas nos permitem avaliar outros conhe
 ● Tarefa Bônus 4 - Versionamento da API
 
 
-○ Como você versionaria a API da sua aplicação? Que estratégia usar?
 
-
-O que será analisado
-
-
-● Simplicidade no design da solução (evitar over engineering)
-● Organização do código
-● Arquitetura do projeto
-● Boas práticas de programação (manutenibilidade, legibilidade etc)
-● Possíveis bugs
-● Tratamento de erros e exceções
-● Explicação breve do porquê das escolhas tomadas durante o desenvolvimento da solução
-● Uso de testes automatizados e ferramentas de qualidade
-● Limpeza do código
-● Documentação do código e da API
-● Logs da aplicação
-● Mensagens e organização dos commits
 
 
 
