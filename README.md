@@ -80,17 +80,21 @@ Observações importantes
 
 -  [Java](https://www.oracle.com/br/java/technologies/)
 
+
 ## :tada: Como executar
 
 ```bash
 # Faça o clone deste repositório para qualquer pasta de sua preferencia
-$ git clone https://github.com/diegohfcelestino/associado
+$ git clone https://github.com/diegohfcelestino/Associado
 
 # Abra o Intellij
 $ E execute o projeto
 
 # Com o projeto em execução entre no link abaixo para acessar a documentação e fazer as requisições
 $ http://localhost:8080/swagger-ui.html
+
+# A aplicação está em deploy no link
+$ https://associado-diego.herokuapp.com/
 ```
 
 # Autor
